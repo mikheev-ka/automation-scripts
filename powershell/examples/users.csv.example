@@ -1,0 +1,3 @@
+SamAccountName,GivenName,Surname,OU,Password
+ivanov,Ivan,Ivanov,"OU=Users,DC=lab,DC=local",ChangeMe123!
+petrov,Petr,Petrov,"OU=Users,DC=lab,DC=local",ChangeMe123!
